@@ -10,7 +10,6 @@
     "? factorio-world >= 1.0.2",
     "(?) NewIslands >= 0.1.0",
     "? islands_world >= 1.1.0",
-    "? SeaBlock >= 0.5.5",
     "(?) Hovercraft >= 0.0.1",
     "? Hovercrafts >= 1.1.0",
     "? angelspetrochem >= 0.9.17",
