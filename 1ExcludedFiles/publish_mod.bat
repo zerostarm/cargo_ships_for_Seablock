@@ -29,3 +29,5 @@ echo Cleaning up temporary files...
 rd /S /Q %Modname%
 
 echo Finished publishing %Modname% Version %Version%.
+
+pause
